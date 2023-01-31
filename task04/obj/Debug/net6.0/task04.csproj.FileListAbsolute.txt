@@ -1,0 +1,15 @@
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.csproj.AssemblyReference.cache
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.AssemblyInfoInputs.cache
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.AssemblyInfo.cs
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.csproj.CoreCompileInputs.cache
+F:\GB_seminar\C#\Seminar01_HW\task04\bin\Debug\net6.0\task04.exe
+F:\GB_seminar\C#\Seminar01_HW\task04\bin\Debug\net6.0\task04.deps.json
+F:\GB_seminar\C#\Seminar01_HW\task04\bin\Debug\net6.0\task04.runtimeconfig.json
+F:\GB_seminar\C#\Seminar01_HW\task04\bin\Debug\net6.0\task04.dll
+F:\GB_seminar\C#\Seminar01_HW\task04\bin\Debug\net6.0\task04.pdb
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.dll
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\refint\task04.dll
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.pdb
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\task04.genruntimeconfig.cache
+F:\GB_seminar\C#\Seminar01_HW\task04\obj\Debug\net6.0\ref\task04.dll
